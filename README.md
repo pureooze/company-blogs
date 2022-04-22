@@ -21,7 +21,7 @@ In this context the term "engineering" refers to blogs where I feel the authors 
 
 # How To Run An Engineering Blog
 
--   https://medium.com/collaborne-engineering/how-to-write-an-engineering-blog-4e20280c0aa6
--   https://medium.com/broadlume-product/an-engineers-guide-to-running-an-engineering-blog-d6d70fb1ac32 (maybe cool to use github projects?)
 -   https://www.stephaniemorillo.co/post/building-a-company-engineering-blog
 -   https://danluu.com/corp-eng-blogs/
+-   https://medium.com/collaborne-engineering/how-to-write-an-engineering-blog-4e20280c0aa6
+-   https://medium.com/broadlume-product/an-engineers-guide-to-running-an-engineering-blog-d6d70fb1ac32 (maybe cool to use github projects?)
